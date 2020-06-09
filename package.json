@@ -6,16 +6,7 @@
   "scripts": {
     "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nguyentranhau98/unit-test-stack-javascript.git"
-  },
-  "author": "Nguyen Tran Hau",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nguyentranhau98/unit-test-stack-javascript/issues"
-  },
-  "homepage": "https://github.com/nguyentranhau98/unit-test-stack-javascript#readme",
   "dependencies": {
     "@types/jest": "^25.2.3"
   },
